@@ -28,8 +28,8 @@
 				"data": [100, 200, 300, 400, 500]
 			}
 		],
-		"options": {
+		"options": [{
 			"maintainAspectRatio": false
-		}
+		}]
 	}
 }
