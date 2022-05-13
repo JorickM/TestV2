@@ -29,7 +29,12 @@
 			}
 		],
 		"options": {
-			"maintainAspectRatio": true
+			"maintainAspectRatio": false,
+			"scales": {
+				"x": {
+					"stacked":true
+				}
+			}
 		}
 	}
 }
