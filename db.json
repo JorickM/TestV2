@@ -29,8 +29,7 @@
 			}
 		],
 		"options": {
-			"maintainAspectRatio": false,
-			"responsive": false
+			"maintainAspectRatio": true,
 		}
 	}
 }
