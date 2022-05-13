@@ -29,7 +29,7 @@
 			}
 		],
 		"options": {
-			"maintainAspectRatio": true,
+			"maintainAspectRatio": true
 		}
 	}
 }
